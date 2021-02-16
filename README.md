@@ -30,6 +30,6 @@ Result: the qss path will be dynamically update under the panel everytime the mo
 
 ## Developer
 
-[@hyarian](https://github.com/hyarion/)
+[@hyarion](https://github.com/hyarion/)
 
 ## Licence
